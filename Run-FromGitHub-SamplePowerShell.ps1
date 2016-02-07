@@ -1,4 +1,4 @@
-﻿# Demo of PowerShell download and run directly from GitHub
+# Demo of PowerShell download and run directly from GitHub
 # Note, from a security point of view this is a really bad idea, you shouldn't run code
 # before reviewing it carefully and understanding it, and anyone who has access to the 
 # GitHub repo could  change the code at any time 
